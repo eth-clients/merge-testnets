@@ -4,7 +4,7 @@ PRESET_BASE: 'mainnet'
 # ---------------------------------------------------------------
 MIN_GENESIS_ACTIVE_VALIDATOR_COUNT: 15000
 # Nov 17th, 2021, 10am UTC
-MIN_GENESIS_TIME: 1637229600
+MIN_GENESIS_TIME: 1637234106
 # Gensis fork
 GENESIS_FORK_VERSION: 0x20000069
 # 300 seconds (5 min)
