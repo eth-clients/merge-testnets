@@ -1,0 +1,33 @@
+# merge-devnet-1
+TTD: `2000000000`  
+ENR for consensus clients: `enr:-Iq4QKuNB_wHmWon7hv5HntHiSsyE1a6cUTK1aT7xDSU_hNTLW3R4mowUboCsqYoh1kN9v3ZoSu_WuvW9Aw0tQ0Dxv6GAXxQ7Nv5gmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk`    
+enode for execution clients: `enode://6538a7ac0748d24caec2470879d0fa35cbafa62e5d22532a3634119eb9360b28e615d0e960bacfb8d26e3ef646adb64c5a0689ed378ce69efba3f190fa8f26a6@137.184.108.205:30303`  
+
+Altair will fork at epoch 4 and merge epoch at 10.
+```
+genesis_time: 1637593500
+genesis_state_root: 0xc0e28cd01366a3fae32889f3925cdb17459bbdf066319ebbb107a9a159c9fd7d
+genesis_latest_block_header:
+  slot: 0
+  proposer_index: 0
+  parent_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
+genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
+genesis_block_root_updated_state_root: 0x28f261d05e3e103f406944e8f4b22cc695b6abd2fbeb4cb499c0e206bc54afe9
+genesis_validators_root: 0x24d5b84e54701a56e3afcaf7518d37384f704c35d455fb716eda8da59dbebd7b
+genesis_validators_count: 21100
+genesis_active_validators_count: 21100
+genesis_total_active_stake_gwei: 675200000000000
+genesis_total_balance_gwei: 675200000000000
+eth1_data:
+  deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
+  deposit_count: 0
+  block_hash: 0x0000000000000000000000000000000000000000000000000000000000000000
+deposit index: 0
+genesis_fork_version: 0x30000069
+genesis_fork_digest: 0xb9e09655
+pre_genesis_fork_digest: 0x86db5f86
+
+
+```
