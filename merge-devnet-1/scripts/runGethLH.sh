@@ -1,6 +1,5 @@
 #!/bin/bash
 dir="$PWD"
-command1=''
 
 osascript -e 'tell application "Terminal" to do script "cd '$dir'; cd .. ; \
    ./go-ethereum/build/bin/geth init genesis.json  --datadir \"datadir-lh\"; \
