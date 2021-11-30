@@ -36,3 +36,17 @@ pre_genesis_fork_digest: 0x86db5f86
 
 
 ```
+
+
+## On macOS
+
+after installing all the dependencies you can run the following commands to run
+your node:    
+     
+**Connect with Geth-LH**      
+ 1. Make script executable: `chmod +x ./scripts/runGethLh.sh`     
+ 2. Run the script: `./scripts/runGethLh.sh`    
+
+**Connect with Geth-Teku**      
+ 1. Make script executable: `chmod +x ./scripts/runGethTeku.sh`     
+ 2. Run the script: `./scripts/runGethTeku.sh`    
