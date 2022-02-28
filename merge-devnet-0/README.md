@@ -1,6 +1,6 @@
 # merge-devnet-0
 TTD: `600000000`  
-ENR for consensus clients: `enr:-Iq4QKuNB_wHmWon7hv5HntHiSsyE1a6cUTK1aT7xDSU_hNTLW3R4mowUboCsqYoh1kN9v3ZoSu_WuvW9Aw0tQ0Dxv6GAXxQ7Nv5gmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk`    
+ENR for consensus clients: `enr:-Iq4QMCTfIMXnow27baRUb35Q8iiFHSIDBJh6hQM5Axohhf4b6Kr_cOCu0htQ5WvVqKvFgY28893DHAg8gnBAXsAVqmGAX53x8JggmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk`    
 enode for execution clients: `enode://d41ba1659cac0bd475449eff0618ec2bb933fe24e15dcb739e5a5abfa6c843f1b05fa8d67e027e7d2faf2b2dc1880eb4f6f9f252b976b3c0711f4625eb98e4d5@206.189.207.53:30303`  
 
 Altair will fork at epoch 4 and merge epoch at 10.

@@ -1,6 +1,6 @@
 # merge-devnet-1
 TTD: `200000000`  
-ENR for consensus clients: `enr:-Iq4QKuNB_wHmWon7hv5HntHiSsyE1a6cUTK1aT7xDSU_hNTLW3R4mowUboCsqYoh1kN9v3ZoSu_WuvW9Aw0tQ0Dxv6GAXxQ7Nv5gmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk`    
+ENR for consensus clients: `enr:-Iq4QMCTfIMXnow27baRUb35Q8iiFHSIDBJh6hQM5Axohhf4b6Kr_cOCu0htQ5WvVqKvFgY28893DHAg8gnBAXsAVqmGAX53x8JggmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk`    
 enode for execution clients:
 ```yaml
   - "enode://68d3eb775d6c1da735d7584cf7f7a069ad5031ae85613d9bc1723b2d60778e09e9f07734a3c9e5c149ae2c385dca448374064b3d9d0e5b73d0efa65e66039c01@137.184.108.205:30303"
