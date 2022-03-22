@@ -1,0 +1,39 @@
+# goerli-shadow-frok
+TTD: `9692860`  
+ENR for consensus clients:
+```yaml
+  - "enr:-Iq4QMCTfIMXnow27baRUb35Q8iiFHSIDBJh6hQM5Axohhf4b6Kr_cOCu0htQ5WvVqKvFgY28893DHAg8gnBAXsAVqmGAX53x8JggmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk"
+```
+
+enode for execution clients:
+```yaml
+  - "enode://451e82bd12e683bbdda82bcd90cc1c84d33323c1903542b6c49db3ace071a9cd54bca243f9b6836d90629a9a74d396c5315fca115a84cda7af6522202ffd7b28@164.90.177.4:3030"
+```
+
+Altair will fork at epoch 50 and merge epoch at 100.
+
+```
+genesis_time: 1648026300
+genesis_state_root: 0xbbe2cbff68afc68f7e0d144c8d5ca846e7186dcc45c35cd57259d588812b4fa6
+genesis_latest_block_header:
+  slot: 0
+  proposer_index: 0
+  parent_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
+genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
+genesis_block_root_updated_state_root: 0x084eb41fd9ffda4e11f2723ce4fab16f3bc2151dd163ab92ffd26f004796c331
+genesis_validators_root: 0x4f53f7ddc547d82dbb1a023f8525ee461e6705997d72bfa54191bda483cd7672
+genesis_validators_count: 50200
+genesis_active_validators_count: 50200
+genesis_total_active_stake_gwei: 1606400000000000
+genesis_total_balance_gwei: 1606400000000000
+eth1_data:
+  deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
+  deposit_count: 0
+  block_hash: 0x64912ca90534520fa062e1262b5eb0212367d7e0609b7d432fefdd422c3a899c
+deposit index: 0
+genesis_fork_version: 0x13001020
+genesis_fork_digest: 0x3bea9936
+pre_genesis_fork_digest: 0xdad9e4e5
+```
