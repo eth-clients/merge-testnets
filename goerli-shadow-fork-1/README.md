@@ -1,4 +1,4 @@
-# goerli-shadow-frok
+# goerli-shadow-fork
 TTD: `9692860`  
 ENR for consensus clients:
 ```yaml
