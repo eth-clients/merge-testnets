@@ -45,7 +45,7 @@
     "maximumExtraDataSize": "0xffff",
     "minGasLimit": "0x1388",
     "networkID": "0x5",
-    "MergeForkIdTransition": "0x649d52"
+    "MergeForkIdTransition": "0x65d7b0"
   },
   "genesis": {
     "author": "0x0000000000000000000000000000000000000000",
