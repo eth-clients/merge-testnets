@@ -14,7 +14,7 @@
     "discovery": {
       "dns": "enrtree://AKA3AM6LPBYEUDMVNU3BSVQJ5AD45Y7YPOHJLEF6W26QOE4VTUDPE@all.goerli.ethdisco.net",
       "bootnodes": [
-        "enode://7e6f6fa5fe67f2cb428f07c6810c4c575796e9015c32368edacc4ee0670dc8505d6c38c50914796d9d470c424e527acc8a2e258e218831865e5226affe3a9825@164.92.171.78:303033"
+        "enode://7e6f6fa5fe67f2cb428f07c6810c4c575796e9015c32368edacc4ee0670dc8505d6c38c50914796d9d470c424e527acc8a2e258e218831865e5226affe3a9825@164.92.171.78:30303"
       ]
     }
   },
