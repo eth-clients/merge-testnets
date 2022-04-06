@@ -1,0 +1,43 @@
+# mainnet-shadow-fork-1
+TTD: `46089003871917200000000`  
+ENR for consensus clients:
+```yaml
+  - "enr:-Iq4QMCTfIMXnow27baRUb35Q8iiFHSIDBJh6hQM5Axohhf4b6Kr_cOCu0htQ5WvVqKvFgY28893DHAg8gnBAXsAVqmGAX53x8JggmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk"
+  - "enr:-Ly4QKU6UBX3dpu948xoag1Blrghw8EXQnOP3wc0hmnQZiaZeWO4yWnUIkwxzjLDlc5fIW4JMlo6gZmMtL1c2IPCEHYBh2F0dG5ldHOIAAAAAAAAAACEZXRoMpCu-ReLIQAQIzIAAAAAAAAAgmlkgnY0gmlwhJ_LXU-Jc2VjcDI1NmsxoQOCwMvceNEIIs4gmWeIjwWdjsmFJAy0Bnm8ZQp7UEjK9IhzeW5jbmV0cwCDdGNwgiMog3VkcIIjKA"
+```
+
+enode for execution clients:
+```yaml
+  - "enode://36ad5c6e0a10e58234cf9e17bd07107f1ed69659d27d3f0510bc9d8c109d6898d4bb7e20a64e69ee13fc8cc67e0a7291a09f6efd5a6ee26b26ad99d8f8458717@157.230.27.43:30303"
+  - "enode://3121479bdb80ad8addab60694083ee83706e47c05523cdda4cbdaf5683794d67b3dbcad848a085dd823d9fb60df3483b50459950d5d9ec23e3373e7bd58e5819@165.227.100.193:30303"
+  - "enode://06899e1abf67b53dd0c6e10dafa238c7b71e361583353c928fed2aa7642d05e3d7755cb3f934bfdcf4fe563996720fb8c74de356d5dda0329b65d1d23a389c90@143.110.188.48:30303"
+
+```
+
+Altair will fork at epoch 50 and merge epoch at 100.
+
+```
+genesis_time: 1649419500
+genesis_state_root: 0x50aa8e23d413c2dc28afc584404969e7c1bdcafb344524526ef54259303f3d47
+genesis_latest_block_header:
+  slot: 0
+  proposer_index: 0
+  parent_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
+genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
+genesis_block_root_updated_state_root: 0x5e7ec62deb222c914c37ec406a1523a01a4db66486cdaee00cf3c21d46c5612f
+genesis_validators_root: 0xb127bcf993274040fba46cc8ee4ae9ae118f28d66b679eb1b4f6287fa45904f1
+genesis_validators_count: 25100
+genesis_active_validators_count: 25100
+genesis_total_active_stake_gwei: 803200000000000
+genesis_total_balance_gwei: 803200000000000
+eth1_data:
+  deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
+  deposit_count: 0
+  block_hash: 0x44bca881b07a6a09f83b130798072441705d9a665c5ac8bdf2f39a3cdf3bee29
+deposit index: 0
+genesis_fork_version: 0x13001023
+genesis_fork_digest: 0xaef9178b
+pre_genesis_fork_digest: 0xc105bef2
+```
