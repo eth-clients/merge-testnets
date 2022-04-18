@@ -1,4 +1,4 @@
-//{
+{
   "name": "Görli Testnet",
   "dataDir": "goerli",
   "engine": {

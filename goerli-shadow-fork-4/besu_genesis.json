@@ -6,7 +6,7 @@
     "berlinBlock":4460644,
     "londonBlock":5062605,
     "mergeForkBlock": 7744352,
-    "terminalTotalDifficulty": 9891031,
+    "terminalTotalDifficulty": 9895202,
     "clique":{
       "blockperiodseconds":15,
       "epochlength":30000
