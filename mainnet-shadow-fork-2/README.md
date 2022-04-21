@@ -3,6 +3,9 @@ TTD: `47074600000000000000000`
 ENR for consensus clients:
 ```yaml
   - "enr:-Iq4QMCTfIMXnow27baRUb35Q8iiFHSIDBJh6hQM5Axohhf4b6Kr_cOCu0htQ5WvVqKvFgY28893DHAg8gnBAXsAVqmGAX53x8JggmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk"
+  - "enr:-Ly4QAQN8Wf5DjiU949EhsLKUd92m9MP3siwjWPIpQsak6JIAsY1cuh9GuDBcAIRWMrPHBb-MMtY5PicvsXy_r-cAkABh2F0dG5ldHOIAAAAAAAAAACEZXRoMpAnl3hJIQAQJQoAAAAAAAAAgmlkgnY0gmlwhKRcp_uJc2VjcDI1NmsxoQO-nLwE91HG7Djhf4wdlj7jpb6yOOeqnj9Rz7Cw51JzkIhzeW5jbmV0cwCDdGNwgiMog3VkcIIjKA"
+  - "enr:-KG4QOuMl4wEdcvaTBiTj54rJ4VvTyAdIiNpqiKi18KDRUW_C0zK9Gam2oKNUgLgSfaAZl4MvsCBtSSEIideqwehdjUDhGV0aDKQJ5d4SSEAECUKAAAAAAAAAIJpZIJ2NIJpcISd5h6AiXNlY3AyNTZrMaECoBab1nZWhfWh7gB4vx67VJdLpbo8brWFGMvzeL9gEtiDdGNwgiMog3VkcIIjKA"
+  - "enr:-MK4QHHPd8bdSHvS8NBC9IcXjU7hRt_j9s1Vt6FjiqZ1iFrgFPLsvzTPZK8euy-xnNz-7Y7cJtS_JVFsg6D4XKCujHKGAYBMxEMQh2F0dG5ldHOIAAAAAAAAAACEZXRoMpAnl3hJIQAQJQoAAAAAAAAAgmlkgnY0gmlwhKRcogaJc2VjcDI1NmsxoQMy5nY1vyk2F3mozq6B7-CSiMzKNmYpMPuofYtkSKBkgIhzeW5jbmV0cwCDdGNwgiMog3VkcIIjKA"
 ```
 
 enode for execution clients:
@@ -13,4 +16,29 @@ enode for execution clients:
   - "enode://2822e2111179da200e84896aa477295f2fb29a3c85109b839ed0f8b4b4ac56744feb52f397663fe64cf6ae9f2d339a5189c69a9af84664e567ae4e8d11b3a82a@164.92.162.6:30303"
 ```
 
-Altair will fork at epoch 50 and merge epoch at 100.
+Altair will fork at epoch 10 and merge epoch at 20.
+```yaml
+genesis_time: 1650618300
+genesis_state_root: 0x37ed62ab459ec5818138a2738eeb10c48c7900a23bf3c313e4604a0ce8a4cb38
+genesis_latest_block_header:
+  slot: 0
+  proposer_index: 0
+  parent_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
+genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
+genesis_block_root_updated_state_root: 0xba10baa48d37b7ae725fde616a747379408c233553c4d14129fb2ebe04af8a5c
+genesis_validators_root: 0xef1780e6b25be20128867d2d63948ff55c1850521e5cd764824351f791829ae5
+genesis_validators_count: 25070
+genesis_active_validators_count: 25070
+genesis_total_active_stake_gwei: 802240000000000
+genesis_total_balance_gwei: 802240000000000
+eth1_data:
+  deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
+  deposit_count: 0
+  block_hash: 0x44bca881b07a6a09f83b130798072441705d9a665c5ac8bdf2f39a3cdf3bee29
+deposit index: 0
+genesis_fork_version: 0x13001025
+genesis_fork_digest: 0x27977849
+pre_genesis_fork_digest: 0x40781eb6
+```
