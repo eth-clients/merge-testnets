@@ -1,6 +1,6 @@
 # Extends the mainnet preset
 PRESET_BASE: 'mainnet'
-CONFIG_NAME: 'ropstenbeaconchain'
+CONFIG_NAME: 'ropsten'
 
 # Genesis
 # ---------------------------------------------------------------
