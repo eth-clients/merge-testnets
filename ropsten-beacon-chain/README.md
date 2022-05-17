@@ -14,8 +14,8 @@ ENR for consensus clients:
 
 Altair will fork at epoch 500 and merge epoch at 750.
 ```yaml
-genesis_time: 1653923100
-genesis_state_root: 0x3b807197e5e874635dd3947091f1fa6bdd1271080a1a818b03e9b906bd593d39
+genesis_time: 1653922800
+genesis_state_root: 0x75b3f63942f47f1b17a1ca4a61bf5ca37ffb5e2a9ef9129f9c80cc13d6c67f03
 genesis_latest_block_header:
   slot: 0
   proposer_index: 0
@@ -23,7 +23,7 @@ genesis_latest_block_header:
   state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
   body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
 genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
-genesis_block_root_updated_state_root: 0x93fb1b676c70ba75f52cd899cdb842a0c3e1f9848dee697696874dfd77ac4366
+genesis_block_root_updated_state_root: 0x1f960dcb6534d0c880101e80ca283ed1d1819360bd917bb27e95d66c567d1960
 genesis_validators_root: 0x44f1e56283ca88b35c789f7f449e52339bc1fefe3a45913a43a6d16edcd33cf1
 genesis_validators_count: 100012
 genesis_active_validators_count: 100012
