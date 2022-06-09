@@ -1,0 +1,58 @@
+# Sepolia beacon chain
+TTD: `100000000000000000000000`
+
+GENESIS_FORK_VERSION: `0x90000069`
+
+ENR for consensus clients:
+```yaml
+# EF bootnode
+  - "enr:-Iq4QMCTfIMXnow27baRUb35Q8iiFHSIDBJh6hQM5Axohhf4b6Kr_cOCu0htQ5WvVqKvFgY28893DHAg8gnBAXsAVqmGAX53x8JggmlkgnY0gmlwhLKAlv6Jc2VjcDI1NmsxoQK6S-Cii_KmfFdUJL2TANL3ksaKUnNXvTCv1tLwXs0QgIN1ZHCCIyk"
+```
+
+
+Altair will fork at epoch 50 and merge epoch at 100.
+```yaml
+genesis_time: 1655733600
+genesis_state_root: 0x71972d584c71e1ff98d76df4d9efdf8ffd3f8ddd3748f50bfb8570dffc96de48
+genesis_latest_block_header:
+  slot: 0
+  proposer_index: 0
+  parent_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
+genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
+genesis_block_root_updated_state_root: 0x42babcf8aebe81de3a9140254c9c22b1a2e54de6aff9bf6bf398e6719f56745b
+genesis_validators_root: 0x30ad4b45521c142c871c79f3307652c108f622fa2b10f94a815f7778737297b6
+genesis_validators_count: 1550
+genesis_active_validators_count: 1550
+genesis_total_active_stake_gwei: 49600000000000
+genesis_total_balance_gwei: 49600000000000
+eth1_data:
+  deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
+  deposit_count: 0
+  block_hash: 0x491ebac1b7f9c0eb426047a495dc577140cb3e09036cd3f7266eda86b635d9fa
+deposit index: 0
+genesis_fork_version: 0x90000069
+genesis_fork_digest: 0x9939d5d8
+pre_genesis_fork_digest: 0xd3010778
+```
+
+Key <> client team mapping:
+```
+EF: 0-100
+Nethermind: 100-199
+Besu: 200-299
+Erigon: 300-399
+Lighthouse: 400-499
+Teku: 500-599
+Nimbus: 600-699
+Lodestar: 700-799
+Prysm: 800-899
+Attestant/Vouch: 900-999
+q9f: 1000-1099
+Lightclient: 1100-1199
+Nalepae: 1200-1299
+Ralexstokes: 1300-1399
+Simply staking: 1400-1499
+EF Security: 1500-1549
+```
