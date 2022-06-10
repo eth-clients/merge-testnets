@@ -13,7 +13,7 @@ ENR for consensus clients:
 Altair will fork at epoch 50 and merge epoch at 100.
 ```yaml
 genesis_time: 1655733600
-genesis_state_root: 0x71972d584c71e1ff98d76df4d9efdf8ffd3f8ddd3748f50bfb8570dffc96de48
+genesis_state_root: 0xfb9afe32150fa39f4b346be2519a67e2a4f5efcd50a1dc192c3f6b3d013d2798
 genesis_latest_block_header:
   slot: 0
   proposer_index: 0
@@ -21,19 +21,19 @@ genesis_latest_block_header:
   state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
   body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
 genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
-genesis_block_root_updated_state_root: 0x42babcf8aebe81de3a9140254c9c22b1a2e54de6aff9bf6bf398e6719f56745b
-genesis_validators_root: 0x30ad4b45521c142c871c79f3307652c108f622fa2b10f94a815f7778737297b6
-genesis_validators_count: 1550
-genesis_active_validators_count: 1550
-genesis_total_active_stake_gwei: 49600000000000
-genesis_total_balance_gwei: 49600000000000
+genesis_block_root_updated_state_root: 0xfb9b64fe445f76696407e1e3cc390371edff147bf712db86db6197d4b31ede43
+genesis_validators_root: 0xd8ea171f3c94aea21ebc42a1ed61052acf3f9209c00e4efbaaddac09ed9b8078
+genesis_validators_count: 1570
+genesis_active_validators_count: 1570
+genesis_total_active_stake_gwei: 50240000000000
+genesis_total_balance_gwei: 1570000000000000000
 eth1_data:
   deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
   deposit_count: 0
   block_hash: 0x491ebac1b7f9c0eb426047a495dc577140cb3e09036cd3f7266eda86b635d9fa
 deposit index: 0
 genesis_fork_version: 0x90000069
-genesis_fork_digest: 0x9939d5d8
+genesis_fork_digest: 0xa8fee8ee
 pre_genesis_fork_digest: 0xd3010778
 ```
 
