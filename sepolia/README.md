@@ -51,7 +51,7 @@ Prysm: 800-899
 Attestant/Vouch: 900-999
 q9f: 1000-1099
 Lightclient: 1100-1199
-Nalepae: 1200-1299
+Kiln.fi: 1200-1299
 Ralexstokes: 1300-1399
 Simply staking: 1400-1499
 EF Security: 1500-1549
