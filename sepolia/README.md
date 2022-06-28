@@ -58,4 +58,5 @@ Kiln.fi: 1200-1299
 Ralexstokes: 1300-1399
 Simply staking: 1400-1499
 EF Security: 1500-1549
+Blox staking: 1573-1672
 ```
