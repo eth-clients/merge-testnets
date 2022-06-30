@@ -16,6 +16,7 @@
     "berlinBlock": 12244000,
     "londonBlock": 12965000,
     "arrowGlacierBlock": 13773000,
+    "grayGlacierBlock": 15050000,
     "mergeForkBlock": 15675026,
     "terminalTotalDifficulty": 53290823313153069154304,
     "ethash": {}
