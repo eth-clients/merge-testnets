@@ -61,4 +61,5 @@ Ralexstokes: 1300-1399
 Simply staking: 1400-1499
 EF Security: 1500-1549
 Blox staking: 1573-1672
+Staked.us: 1773-1779, 1880-1972
 ```
