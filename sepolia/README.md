@@ -61,7 +61,7 @@ Ralexstokes: 1300-1399
 Simply staking: 1400-1499
 EF Security: 1500-1549
 EF DevOps sepolia inflation: 1550-1569
-Token/Tooling Test deposits: 1670-1572
+Attestant/Vouch token/tooling test deposits: 1570-1572
 Blox staking: 1573-1672
 Staked.us: 1773-1779
 Obol network: 1780-1879
