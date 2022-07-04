@@ -63,7 +63,7 @@ EF Security: 1500-1549
 EF DevOps sepolia inflation: 1550-1569
 Attestant/Vouch token/tooling test deposits: 1570-1572
 Blox staking: 1573-1672
-Staked.us: 1773-1779
+Staked.us: 1673-1779
 Obol network: 1780-1879
 Staked.us: 1880-1972
 ```
