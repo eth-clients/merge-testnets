@@ -14,7 +14,7 @@
     "berlinBlock": 4460644,
     "londonBlock": 5062605,
     "mergeNetsplitBlock": 8744352,
-    "terminalTotalDifficulty": 10627192,
+    "terminalTotalDifficulty": 10625003,
     "clique": {
       "period": 15,
       "epoch": 30000
